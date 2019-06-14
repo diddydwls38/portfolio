@@ -1,0 +1,6 @@
+@charset "UTF-8";
+*{margin:0; padding:0;}
+ul, ol{list-style:none;}
+a{text-decoration:none;color:#111;}
+img{border:none;vertical-align:top;}
+table {border-collapse: collapse;}
